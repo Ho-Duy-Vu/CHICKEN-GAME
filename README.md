@@ -1,7 +1,8 @@
 # 🐦 Flappy Bird Console Game – C++
 
-**Author:** Hồ Duy Vũ  
-📧 **Email:** duyvu11092004@gmail.com  
+- **Author**: Hồ Duy Vũ – Software Engineer | AI & Backend Developer
+- **GitHub**: https://github.com/Ho-Duy-Vu
+- **Email**: duyvu11092004@gmail.com
 💻 **Language:** C++  
 🖥️ **Platform:** Windows Console  
 
